@@ -1,0 +1,17 @@
+{
+  "name": "discord-vanity-role-bot",
+  "version": "1.0.0",
+  "description": "An advanced v14 discord vanity role system bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "c2rder",
+  "license": "MIT",
+  "dependencies": {
+    "advanced-logs": "^2.1.3",
+    "discord.js": "^14.18.0"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
